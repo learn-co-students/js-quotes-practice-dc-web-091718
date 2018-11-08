@@ -3,20 +3,50 @@
     {
       "id": 2,
       "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 3,
+      "likes": 5,
       "author": "Collin Powell"
     },
     {
-      "quote": "I learned to always prevent default",
+      "quote": "I learned to always prevent default!!",
       "author": "Mary Beliveau",
-      "likes": 20,
+      "likes": 38,
       "id": 3
     },
     {
-      "quote": "Preventing default is very hacky",
-      "author": "Joseph B L Benedick",
-      "likes": 3,
-      "id": 4
+      "quote": "red is my favorite background color",
+      "author": "Jake Cool",
+      "likes": 35,
+      "id": 6
+    },
+    {
+      "quote": "there is nothing to fear but fear itself",
+      "author": "Catherine Beliveau",
+      "likes": 11,
+      "id": 7
+    },
+    {
+      "quote": "Nobody in this world is you-er than you",
+      "author": "Kevin Beliveau aka Dr. Seuss ",
+      "likes": 11,
+      "id": 8
+    },
+    {
+      "quote": "They tried to bury us, but they did not know we were seeds",
+      "author": "Mexican Proverb ",
+      "likes": 8,
+      "id": 9
+    },
+    {
+      "quote": "I like big butts and I cannot lie!",
+      "author": "Joseph B L Benedick aka Sir Mix A Lot",
+      "likes": 12,
+      "id": 10
+    },
+    {
+      "quote": "A trick is something a whore does for money",
+      "author": "Gob Bluth!",
+      "likes": 8,
+      "id": 11
     }
   ]
 }
